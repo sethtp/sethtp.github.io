@@ -4,8 +4,8 @@ layout: splash
 read_time: false
 header:
   actions:
-    - label: "Get Started"
-      url: "/REDAME/"
+    - label: "Read More"
+      url: "/about/"
 excerpt: "A new page for me."
 about:
   - excerpt: 'Test copy just to see how this works.'

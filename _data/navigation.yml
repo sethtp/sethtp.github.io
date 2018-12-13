@@ -7,5 +7,5 @@ main:
     url: "/blog/"
     description: "Blog Pages"
   - title: "About Me"
-    url: "/pages/"
+    url: "/about/"
     description: "About Pages"
