@@ -1,0 +1,21 @@
+Tranquil:
+  name             : "Seth"
+  avatar           : "/assets/images/teapot.png"
+  bio              : "Systems engineer, company founder, CEO & CTO, husband & father. I love building things."
+  location         : "Boston, MA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #url: mailto:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://technicallyseth.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/technicallyseth"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/in/sethproctor/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sethtp"

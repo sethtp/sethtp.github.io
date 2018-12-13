@@ -1,0 +1,11 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+    description: "Home Page"
+  - title: "Blog"
+    url: "/blog/"
+    description: "Blog Pages"
+  - title: "About Me"
+    url: "/pages/"
+    description: "About Pages"
