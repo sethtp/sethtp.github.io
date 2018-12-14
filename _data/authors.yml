@@ -14,7 +14,7 @@ Seth:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/technicallyseth"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/sethproctor/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

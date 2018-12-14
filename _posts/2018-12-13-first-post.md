@@ -1,6 +1,7 @@
 ---
 title: First Post
-categories: []
+layout: single
+categories: [site]
 tags: []
 ---
 
