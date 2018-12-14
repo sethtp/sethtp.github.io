@@ -3,9 +3,6 @@ main:
   - title: "Home"
     url: /
     description: "Home Page"
-  - title: "Blog"
-    url: "/blog/"
-    description: "Blog Pages"
   - title: "About Me"
     url: "/about/"
     description: "About Pages"
