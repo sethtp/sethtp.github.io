@@ -1,17 +1,11 @@
 ---
-title: "Test Page for Seth"
+title: "technicallyseth dot com"
 layout: splash
 read_time: false
 header:
-  actions:
-    - label: "Read More"
-      url: "/about/"
-excerpt: "A new page for me."
-about:
-  - excerpt: 'Test copy just to see how this works.'
+  overlay_image: /assets/images/graph.png
+excerpt: "My way of jotting down and organizing thoughts on technology, trends, and what I'd like to build."
 ---
-
-{% include feature_row id="about" type="center" %}
 
 <ul>
   {% for post in site.posts %}
