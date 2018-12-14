@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "technically seth"
+title                    : "seth's personal blog"
 title_separator          : "-"
 name                     : "Technically Seth"
 description              : "Trying out a new page"
-url                      : "http://technicallyseth.com"
+url                      : "https://technicallyseth.com"
 baseurl                  : # "/doc"
 repository               : "sethtp/sethtp.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,29 +106,10 @@ footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://technicallyseth.com"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:
-    - label: "Twitter"
-      icon: "fab fa-fw  fa-twitter-square"
-      url: "https://twitter.com/technicallyseth"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      url: "https://technicallyseth.com"
+    - label: "Source"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sethtp"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/sethtp/sethtp.github.io"
 
 # Reading Files
 include:
