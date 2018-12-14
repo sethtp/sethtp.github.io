@@ -268,7 +268,7 @@ defaults:
       comments: false
       share: false
       related: true
-      permalink: /:title/
+#      permalink: /:title/
   # _posts
   - scope:
       path: ""
@@ -280,4 +280,4 @@ defaults:
       comments: true
       share: true
       related: true
-      permalink: pretty
+#      permalink: pretty
